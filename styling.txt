@@ -8,3 +8,6 @@ https://ashnajainneu.github.io/Homework3/
 - For my email, I made the email address a clickable link that will prompt a new email draft
 - I added a colored button to navigate to the second page
 - For all of my photos, I added a caption to the figure
+
+learnmore.html
+- I created two columns for the photos so that it could be in a grid layout 
