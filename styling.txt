@@ -6,6 +6,7 @@ may not show correctly.
 
 https://ashnajainneu.github.io/Homework3/
 
+index.html
 - For coloring, I changed the page's background color as well as the font color of the title and description
 - I put the contact information in its own paragraph, also with separate coloring
 - For the contact information, I also changed the font type to be 'Courier New'
