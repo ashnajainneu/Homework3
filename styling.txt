@@ -1,4 +1,8 @@
-This .txt file will describe the styling and customizations I did for my website on part 1 of Homework 3. 
+This .txt file will describe the styling and customizations I did for my website on part 1 of Homework 3.
+
+** NOTE: When running the code for Part 1 (index.html) by right-clicking and selecting 'Open with Live Server',
+the pictures all display correctly. However, when clicking on the Github Pages deployment link below, the pictures
+may not show correctly.
 
 https://ashnajainneu.github.io/Homework3/
 
