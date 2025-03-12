@@ -1,0 +1,10 @@
+This .txt file will describe the styling and customizations I did for my website on part 1 of Homework 3. 
+
+https://ashnajainneu.github.io/Homework3/
+
+- For coloring, I changed the page's background color as well as the font color of the title and description
+- I put the contact information in its own paragraph, also with separate coloring
+- For the contact information, I also changed the font type to be 'Courier New'
+- For my email, I made the email address a clickable link that will prompt a new email draft
+- I added a colored button to navigate to the second page
+- For all of my photos, I added a caption to the figure

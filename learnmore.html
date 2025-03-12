@@ -4,6 +4,18 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Spain trip </title>
+    <style>.image-container {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr); /* 2 columns */
+        gap: 20px; /* Space between images */
+        max-width: 900px;
+        margin: auto;
+    }
+    
+    figure {
+        text-align: center;
+        width: 100%; /* Ensures images resize properly */
+    }</style>
 </head>
 <body style="background-color:rgb(182, 216, 171)">
     
@@ -36,25 +48,27 @@
         </li>
     </ul>
     
+    <div class="image-container">
     <figure>
-        <img src="IMG_5875.jpg" alt="Show the picture" width="500">
+        <img src="IMG_5875.jpg" alt="Show the picture" width="100%">
         <figcaption>Cool architecture in Madrid</figcaption>
     </figure>
 
     <figure>
-        <img src="IMG_5958.jpg" alt="Show the picture" width="400">
+        <img src="IMG_5958.jpg" alt="Show the picture" width="100%">
         <figcaption>Royal Palace in Madrid</figcaption>
     </figure>
 
     <figure>
-        <img src="IMG_6158.jpg" alt="Show the picture" width="400">
+        <img src="IMG_6158.jpg" alt="Show the picture" width="100%">
         <figcaption>Arc de Triomf in Barcelona</figcaption>
     </figure>
 
     <figure>
-        <img src="IMG_6496.jpg" alt="Show the picture" width="400">
+        <img src="IMG_6496.jpg" alt="Show the picture" width="100%">
         <figcaption>Montjuic in Barcelona</figcaption>
     </figure>
+    </div>
   
 </body>
 </html>
